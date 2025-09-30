@@ -8,6 +8,7 @@ $exito = false;
 $adminValidado = false;
 
 //Cambio desde mi computadora personal
+//Otro comentario
 
 // 🔒 Validar login
 if (!isset($_SESSION['usuario'])) {
