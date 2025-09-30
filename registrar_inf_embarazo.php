@@ -1,0 +1,1 @@
+<!-- Eliminado: la pestaña de información de embarazo ya no se usa, ahora está integrada en el registro de paciente -->
