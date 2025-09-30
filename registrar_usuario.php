@@ -7,6 +7,8 @@ $error = '';
 $exito = false;
 $adminValidado = false;
 
+//Cambio desde mi computadora personal
+
 // 🔒 Validar login
 if (!isset($_SESSION['usuario'])) {
     $error = "Debe iniciar sesión para acceder a esta página.";
